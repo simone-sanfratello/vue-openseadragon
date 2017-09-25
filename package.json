@@ -1,0 +1,32 @@
+{
+  "name": "vue-openseadragon",
+  "version": "0.1.0",
+  "description": "OpenSeaDragon component for Vue.js",
+  "devDependencies": {
+    "fs-extra": "^4.x",
+    "gulp": "^3.9.x",
+    "gulp-rename": "^1.2.2",
+    "openseadragon": "^2.3.1",
+    "through2": "^2.0.3",
+    "uglify-es": "^3.1.2"
+  },
+  "scripts": {
+    "build": "gulp build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://simone-sanfratello@github.com/braceslab/vue-openseadragon.git"
+  },
+  "keywords": [
+    "vue",
+    "openseadragon",
+    "zoom",
+    "pan"
+  ],
+  "author": "Simone Sanfratello <simone@braceslab.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/braceslab/vue-openseadragon/issues"
+  },
+  "homepage": "https://github.com/braceslab/vue-openseadragon#readme"
+}

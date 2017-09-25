@@ -1,0 +1,20 @@
+# dirs
+/.vscode/
+/log/
+/pid/
+/node_modules/
+/coverage/
+
+_tmp/
+
+# logs
+*.log
+*tgz
+
+# sys and temp files
+*Thumbs.db
+*.DS_Store
+*._*
+.*.swp
+.~*
+/.idea/
