@@ -1,5 +1,12 @@
 # vue-openseadragon
 
+[![NPM Version](http://img.shields.io/npm/v/vue-openseadragon.svg?style=flat)](https://www.npmjs.org/package/vue-openseadragon)
+[![NPM Downloads](https://img.shields.io/npm/dm/vue-openseadragon.svg?style=flat)](https://www.npmjs.org/package/vue-openseadragon)
+
+[![NPM](https://nodei.co/npm-dl/vue-openseadragon.png)](https://nodei.co/npm/vue-openseadragon/)
+
+[![JS Standard Style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](http://standardjs.com/)
+
 OpenSeaDragon component for Vue.js
 
 https://openseadragon.github.io/
