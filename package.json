@@ -1,7 +1,11 @@
 {
   "name": "vue-openseadragon",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "OpenSeaDragon component for Vue.js",
+  "main": "dist/vue-openseadragon.min.js",
+  "files": [
+    "dist/vue-openseadragon.min.js"
+  ],
   "devDependencies": {
     "fs-extra": "^4.x",
     "gulp": "^3.9.x",

@@ -22,7 +22,7 @@ npm i vue-openseadragon --save
 ## Example
 
 ````html
-<script type="text/javascript" src=".../dist/vue-openseadragon.min.js"></script>
+<script type="text/javascript" src="/path/to/dist/vue-openseadragon.min.js"></script>
 
 <vue-openseadragon :id="'image-viewer'" 
   :options="{
@@ -48,15 +48,15 @@ See https://openseadragon.github.io/docs/OpenSeadragon.html#.Options for full op
 
 ### Todo
 
-- doc i18n, custom messages
+- [ ] doc i18n, custom messages
   ``:i18n="i18n" :messages="messages"``
-- add debug option
+- [ ] add debug option
 
 ## License
 
 The MIT License (MIT)
 
-Copyright (c) 2017 braces lab
+Copyright (c) 2017-2018, [braces lab](https://braceslab.com)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
